@@ -9,7 +9,7 @@ const c: IConfig = {
   hashMode: true,
 
   // 您的网站地址，这对于SEO很重要
-  homeUrl: 'https://nav3.cn',
+  homeUrl: 'https://n.yige.men',
 
   // 网站标题
   title: '发现导航 - 精选实用导航网站',
